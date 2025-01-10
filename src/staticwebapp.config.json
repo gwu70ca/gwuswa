@@ -1,8 +1,8 @@
 {
     "routes": [
         {
-            "route":"/hidden/dev*",
-            "redirect":"/mimi.html"
+            "route":"/help/dev*",
+            "redirect":"/index.html?redirect"
         }
     ]
 }
